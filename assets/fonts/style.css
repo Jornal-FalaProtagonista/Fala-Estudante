@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Arvo-Regular';
+   font-display: swap;
+   src: url('Arvo-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'ProductSans-Light';
+   font-display: swap;
+   src: url('ProductSans-Light/font.ttf');
+}
+@font-face {
+   font-family: 'Inconsolata-VariableFont_wdth,wght';
+   font-display: swap;
+   src: url('Inconsolata-VariableFont_wdth,wght/font.ttf');
+}
